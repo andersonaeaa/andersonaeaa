@@ -14,6 +14,9 @@
 </div><br/>
 
 ° Engenharia da Computação 🖥️
+
 ° Técnico em Agropecuária 🚜…🌾
+
 ° Fab 2°/2021 🇧🇷
+
    Inovação é a soma de arte com Tecnologia 🍂
