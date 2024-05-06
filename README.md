@@ -13,4 +13,7 @@
   <img aling="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-Inovação é a soma de arte com tecnologia.
+° Engenharia da Computação 🖥️
+° Técnico em Agropecuária 🚜…🌾
+° Fab 2°/2021 🇧🇷
+   Inovação é a soma de arte com Tecnologia 🍂
