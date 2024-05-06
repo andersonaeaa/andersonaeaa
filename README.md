@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá! Eu sou o Anderson Andrade 😜
 
-<!--
-**andersonaeaa/andersonaeaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![INSTAGRAN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ander.andrade_7?igsh=dGo3YncxbHg5OTg5&utm_source=qr)
+[![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anderson.eduardo.549221?mibextid=LQQJ4d)
+[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5541991288699)
 
-Here are some ideas to get you started:
+![Anderson Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonaeaa&show_icons=true&theme=highcontrast)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso no meu dia
+
+<div style="display: inline_block"><br/>
+  <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img aling="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div><br/>
+
+Inovação é a soma de arte com tecnologia.
